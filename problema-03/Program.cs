@@ -1,6 +1,6 @@
 ﻿// Fazer um programa para ler as duas notas que um aluno obteve no primeiro e segundo semestres de uma disciplina anual.
-// Em seguida, mostrar a nota final que o aluno obteve no ano juntamente com um texto explicativo.
-// Caso a nota final do aluno seja inferior a 60.00, mostrar a mensagem "REPROVADO", conforme exemplos.
+// Em seguida, calcular a média e mostrar a nota final que o aluno obteve no ano juntamente com um texto explicativo.
+// Caso a nota final do aluno seja inferior a 6, mostrar a mensagem "REPROVADO" ou "APROVADO", conforme exemplos.
 // Todos os valores devem ter uma casa decimal.
 
 using System.Globalization;
