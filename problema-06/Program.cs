@@ -11,9 +11,10 @@ internal class Program
         media = 0.0;
 
         idade = int.Parse(Console.ReadLine());
-        if (idade < 0) {
+        if (idade < 0)
+        {
             Console.WriteLine("Impossível calcular!");
-        
+
         }
         while (idade >= 0)
         {
@@ -22,8 +23,8 @@ internal class Program
             idade = int.Parse(Console.ReadLine());
 
         }
-        
-        media =  (soma / (double) num);
+
+        media = (soma / (double)num);
 
         Console.WriteLine("Média = " + media.ToString("F2", CultureInfo.InvariantCulture));
     }
