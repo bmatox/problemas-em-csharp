@@ -1,6 +1,6 @@
 # Problemas em C#
 
-Este é um projeto baseado no curso de **Lógica de Programação e Algoritmos** do **Nélio Alves** (da plataforma **Udemy**). O objetivo é resolver os exercícios propostos no curso, assim como revisar a parte de lógica de algoritmos.
+Este projeto é baseado no curso de **Lógica de Programação e Algoritmos** do **Nélio Alves** (da plataforma **Udemy**). O objetivo é resolver os exercícios propostos no curso, assim como revisar a parte de lógica de algoritmos.
 
 ## Tecnologias
 
