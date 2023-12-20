@@ -16,7 +16,7 @@ internal class Program {
             n1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("\nDigite a segunda nota: ");
-            n2 = double.Parse(Console.ReadLine());
+            n2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             notafinal = (n1 + n2) / 2;
 
