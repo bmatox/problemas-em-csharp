@@ -15,7 +15,7 @@ internal class Program
 
         for (int i = 0; i < n; i++)
         {
-            vet[i] = double.Parse(s[i], CultureInfo.InvariantCulture); // para receber os decimais dos elementos "double" separados por ponto.
+            vet[i] = double.Parse(s[i], CultureInfo.InvariantCulture); // CultureInfo para receber os decimais dos elementos "double" separados por ponto.
         }
 
         for (int i = 0; i < n; i++)

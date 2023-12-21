@@ -8,11 +8,13 @@ internal class Program
         n = int.Parse(Console.ReadLine());
         int[] vet = new int[n];
 
+        // armazenando valores no vetor
         for (int i = 0; i < n; i++)
         {
             vet[i] = int.Parse(Console.ReadLine());
         }
 
+        // mostrando valores negativos do vetor no console
         for (int i = 0; i < n; i++)
         {
             if (vet[i] < 0)
