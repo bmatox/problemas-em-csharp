@@ -9,8 +9,7 @@ internal class Program
     private static void Main(string[] args)
     {
         int n;
-        double somanotas, media;
-        somanotas = 0.0;
+        double media;
         media = 0.0;
 
         n = int.Parse(Console.ReadLine());
