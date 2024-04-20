@@ -1,4 +1,5 @@
-﻿// URI 1078
+﻿// URI 1078: Dado um número inteiro ‘n’, escreva um programa que imprima a tabuada de multiplicação
+// de ‘n’ de 1 a 10.
 internal class Program
 {
     private static void Main(string[] args)

@@ -1,4 +1,8 @@
-﻿using System.Globalization;
+﻿// Dado um conjunto de números inteiros positivos, escreva um programa que leia esses números da entrada
+// padrão até que um número negativo seja inserido. Em seguida, calcule e imprima a média dos números
+// positivos (excluindo o número negativo). A média deve ser arredondada para 2 casas decimais.
+
+using System.Globalization;
 
 internal class Program
 {

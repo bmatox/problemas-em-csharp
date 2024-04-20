@@ -1,5 +1,6 @@
 ﻿
-// problema do bloco 04 - 5m32seg
+// Dado um número inteiro ‘n’, escreva um programa que leia ‘n’ valores inteiros e armazene-os em um vetor.
+// Em seguida, imprima os valores negativos do vetor no console.
 internal class Program
 {
     private static void Main(string[] args)

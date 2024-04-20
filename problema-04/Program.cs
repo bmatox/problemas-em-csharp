@@ -1,4 +1,7 @@
-﻿// URI 1036
+﻿// URI 1036: Dado três números de ponto flutuante representando os coeficientes de uma equação quadrática (a, b e c), escreva um programa
+// que calcule e imprima as raízes da equação usando a fórmula quadrática. Se o discriminante for negativo ou se o coeficiente ‘a’ for igual
+// a zero, imprima “Impossível calcular.” Caso contrário, imprima as raízes no formato especificado.
+
 using System.Globalization;
 
 internal class Program
@@ -9,7 +12,7 @@ internal class Program
 
         String[] vet = Console.ReadLine().Split(' ');
 
-        a = double.Parse(vet[0], CultureInfo.InvariantCulture);
+        a = double.Parse(vet[0], CultureInfo.InvariantCulture); 
         b = double.Parse(vet[1], CultureInfo.InvariantCulture);
         c = double.Parse(vet[2], CultureInfo.InvariantCulture);
 

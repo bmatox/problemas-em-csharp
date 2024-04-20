@@ -1,4 +1,7 @@
-﻿// problema do bloco 04 - 9m45seg
+﻿// Dado um número inteiro ‘n’, escreva um programa que leia ‘n’ valores decimais e armazene-os em um vetor.
+// Em seguida, imprima os valores do vetor com uma casa decimal, a soma desses valores com duas casas decimais
+// e a média dos valores também com duas casas decimais.
+
 using System.Globalization;
 
 internal class Program

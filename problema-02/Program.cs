@@ -1,4 +1,5 @@
-﻿// URI 1019 
+﻿// URI 1019: Dado um valor inteiro representando o tempo em segundos, escreva um programa que converta esse valor para o formato “horas:minutos:segundos”
+// e imprima o resultado.
 internal class Program
 {
     private static void Main(string[] args)

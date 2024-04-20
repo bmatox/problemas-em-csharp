@@ -1,4 +1,5 @@
-﻿// problema do bloco 03 - 
+﻿// Dado um número inteiro ‘n’, escreva um programa que leia ‘n’ valores inteiros e armazene-os em um vetor.
+// Em seguida, imprima os valores do vetor na ordem em que foram lidos.
 internal class Program
 {
     private static void Main(string[] args)

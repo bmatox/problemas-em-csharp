@@ -1,4 +1,6 @@
-﻿// URI 1113
+﻿// URI 1113: Dado dois números inteiros ‘x’ e ‘y’, escreva um programa que compare esses valores e
+// imprima “Decrescente!” se ‘x’ for maior que ‘y’, ou “Crescente!” se ‘x’ for menor que ‘y’.
+// O programa deve continuar lendo novos valores de ‘x’ e ‘y’ até que ‘x’ seja igual a ‘y’.
 
 internal class Program
 {
