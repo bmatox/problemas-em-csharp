@@ -29,8 +29,8 @@ internal class Program
         Console.WriteLine();
         media = soma / (double) n;
 
-        Console.WriteLine(soma.ToString("F2", CultureInfo.InvariantCulture));
-        Console.WriteLine(media.ToString("F2", CultureInfo.InvariantCulture));
+        Console.WriteLine("Soma dos números digitados: " + soma.ToString("F2", CultureInfo.InvariantCulture));
+        Console.WriteLine("Média dos valores digitados: " + media.ToString("F2", CultureInfo.InvariantCulture));
              
     }
 }
