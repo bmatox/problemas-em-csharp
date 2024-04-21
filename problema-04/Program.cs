@@ -12,8 +12,11 @@ internal class Program
 
         String[] vet = Console.ReadLine().Split(' ');
 
-        a = double.Parse(vet[0], CultureInfo.InvariantCulture); 
+        Console.Write("Digite o primeiro coeficiente: ");
+        a = double.Parse(vet[0], CultureInfo.InvariantCulture);
+        Console.Write("Digite o segundo coeficiente: ");
         b = double.Parse(vet[1], CultureInfo.InvariantCulture);
+        Console.Write("Digite o terceiro coeficiente: ");
         c = double.Parse(vet[2], CultureInfo.InvariantCulture);
 
         delta = Math.Pow(b, 2) - 4 * a * c;
